@@ -15,7 +15,7 @@ This application provides hands-on examples of:
 
 ## Running the Application
 ``` bash
-cd ParallelismDemo
+cd ParallelismDemo/HPC
 dotnet run
 ```
 The application presents an interactive menu where you can explore each concept with live examples.
